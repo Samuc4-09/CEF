@@ -1,0 +1,8 @@
+É o ponto inicial do aplicativo Flutter.
+
+É onde o aplicativo começa a ser executado e normalmente ficam configurações iniciais, como:
+
+-MaterialApp
+-tema
+-rota inicial
+-configurações gerais

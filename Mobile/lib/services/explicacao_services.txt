@@ -1,0 +1,14 @@
+Aqui ficam as funções que fazem comunicação entre o aplicativo e o backend PHP.
+
+Por exemplo:
+
+services/
+├── auth_service.dart
+├── aluno_service.dart
+└── aviso_service.dart
+
+O auth_service.dart, por exemplo, poderia mandar:
+
+"Quero fazer login com este usuário e senha."
+
+para a API PHP.

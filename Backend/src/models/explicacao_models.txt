@@ -1,0 +1,16 @@
+Aqui fica a parte que conversa com o banco de dados.
+
+Por exemplo:
+
+models/
+├── AlunoModel.php
+├── UsuarioModel.php
+└── AvisoModel.php
+
+O AlunoModel.php poderia ter funções como:
+
+cadastrarAluno()
+buscarAluno()
+listarAlunos()
+atualizarAluno()
+excluirAluno()

@@ -1,0 +1,8 @@
+Arquivos que ficam acessíveis diretamente pelo navegador.
+
+Por exemplo:
+
+public/
+└── index.php
+
+O index.php pode ser a porta de entrada do painel.

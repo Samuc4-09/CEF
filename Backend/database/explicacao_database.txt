@@ -1,0 +1,15 @@
+Aqui podem guardar arquivos relacionados à estrutura do banco de dados.
+
+schema.sql
+
+É o arquivo que descreve/cria as tabelas.
+
+Por exemplo:
+
+usuarios
+alunos
+responsaveis
+turmas
+comunicados
+
+Então alguém que baixar o projeto consegue entender/criar a estrutura do banco.

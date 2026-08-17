@@ -1,0 +1,1 @@
+Essa parte é o site/painel usado pelos administradores.

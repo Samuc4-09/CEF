@@ -1,0 +1,11 @@
+Partes reutilizáveis do painel.
+
+Por exemplo:
+
+includes/
+├── responsavel.php
+├── diretor.php
+├── coordenador.php
+└── auth.php
+
+Assim não precisam copiar o mesmo menu para todas as páginas.

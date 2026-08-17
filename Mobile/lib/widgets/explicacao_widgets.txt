@@ -1,0 +1,3 @@
+Guardara componentes reutilizáveis
+Exemplo: 
+você criou um botão, que pode ser usados em varias paginas, então mantem o código dele na pasta "widget", para sempre que precisar, pode vir reutiliza-lo 

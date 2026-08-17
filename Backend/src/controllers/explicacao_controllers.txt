@@ -1,0 +1,14 @@
+Aqui fica a lógica das operações.
+
+Por exemplo:
+
+controllers/
+├── LoginController.php
+├── AlunoController.php
+└── AvisoController.php
+
+Se alguém pedir:
+
+"Cadastre esse aluno."
+
+O controller pode verificar os dados e mandar o modelo salvar no banco.

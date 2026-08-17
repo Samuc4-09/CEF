@@ -1,0 +1,21 @@
+O backend funciona como o intermediário entre o aplicativo/site e o banco de dados.
+
+A arquitetura fica mais ou menos assim:
+
+             ┌──────────────┐
+             │ Flutter APP      │
+             └──────┬───────┘
+                      │
+                      ↓
+             ┌──────────────┐
+             │   API PHP        │
+             │   BACKEND        │
+             └──────┬───────┘
+                      │
+                      ↓
+             ┌──────────────┐
+             │   BANCO          │
+             │  DE DADOS        │
+             └──────────────┘
+
+O painel web também pode utilizar essa mesma API.

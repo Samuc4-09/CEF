@@ -1,0 +1,20 @@
+Aqui ficam as classes que representam os dados do sistema
+
+por Exemplo:
+
+	models/
+	├── aluno.dart
+	├── responsavel.dart
+	├── diretor.dart
+	└── coordenador.dart
+
+
+Um aluno.dart poderia representar coisas como:
+
+nome
+matrícula
+turma
+data de nascimento
+responsável
+
+Esses modelos ajudam o Flutter a entender e organizar os dados que vêm da API.

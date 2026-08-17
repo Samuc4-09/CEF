@@ -1,0 +1,14 @@
+Configurações do backend.
+
+database.php
+
+Responsável pela configuração/conexão com o banco de dados.
+
+Por exemplo, informações como:
+
+servidor
+banco
+usuário
+senha
+
+A senha NÃO deve ficar exposta no GitHub.

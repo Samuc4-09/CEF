@@ -1,0 +1,17 @@
+Aqui ficam as rotas/endpoints da API.
+
+Por exemplo:
+
+routes/
+├── login.php
+├── alunos.php
+├── responsaveis.php
+└── avisos.php
+
+Uma rota poderia representar algo como:
+
+GET /alunos
+
+ou
+
+POST /login

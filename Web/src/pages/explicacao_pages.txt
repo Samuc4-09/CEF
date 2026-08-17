@@ -1,0 +1,10 @@
+Aqui ficam as páginas do painel administrativo.
+
+Por exemplo:
+
+pages/
+├── dashboard.php
+├── alunos.php
+├── responsaveis.php
+├── avisos.php
+└── usuarios.php

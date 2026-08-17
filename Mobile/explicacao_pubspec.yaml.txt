@@ -1,0 +1,10 @@
+É o arquivo de configuração do Flutter.
+
+Nele podem colocar, por exemplo, as dependências:
+
+dependencias:
+  flutter:
+  http:
+  shared_preferences:
+
+Também é onde registram os assets.

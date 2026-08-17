@@ -1,0 +1,11 @@
+São verificações que acontecem antes de determinadas operações.
+
+Por exemplo:
+
+"Esse usuário está logado?"
+
+"O token dele é válido?"
+
+"Ele tem permissão para acessar essa informação?"
+
+Isso é muito importante para segurança.

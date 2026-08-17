@@ -1,0 +1,6 @@
+Aqui fica o ponto de entrada da API:
+
+public/
+└── index.php
+
+É por onde as requisições chegam ao backend.

@@ -1,0 +1,10 @@
+Funções auxiliares que podem ser utilizadas em várias partes do aplicativo.
+
+Por exemplo:
+
+validação de CPF
+validação de e-mail
+formatação de telefone
+formatação de datas
+conversões
+funções gerais

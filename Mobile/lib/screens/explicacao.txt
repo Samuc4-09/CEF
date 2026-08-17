@@ -1,0 +1,22 @@
+Aqui estarão as telas do projeto 
+
+- login
+  - confirmação de login
+
+- cadastro
+
+- chat (tela principal)
+
+- avisos
+
+- calendário
+
+- perfil
+
+- turmas
+
+- relátorios 
+
+- entrada e saída
+
+- suporte

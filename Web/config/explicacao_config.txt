@@ -1,0 +1,3 @@
+Configurações específicas do painel web.
+
+Por exemplo, configurações relacionadas à comunicação com a API ou outras configurações do painel.

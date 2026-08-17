@@ -1,0 +1,22 @@
+Guarda as telas do app:
+
+-cadastro 
+
+- login
+  - confirmação de login
+
+- chat
+
+- aviso 
+
+- calendário 
+
+- perfil
+
+- turmas 
+
+- relatórios 
+
+- entrada e saída 
+
+- suporte

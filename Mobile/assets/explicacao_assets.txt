@@ -1,0 +1,12 @@
+Arquivos que o aplicativo utiliza.
+
+Por exemplo:
+
+assets/
+├── images/
+│   ├── logo_cef.png
+│   └── fundo.png
+├── icons/
+└── fonts/
+
+Aqui podem ficar imagens, ícones e fontes.

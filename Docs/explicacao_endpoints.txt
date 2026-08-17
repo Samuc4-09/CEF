@@ -1,0 +1,16 @@
+Aqui vocês podem documentar a API.
+
+Por exemplo:
+
+POST /login
+GET /alunos
+POST /alunos
+GET /avisos
+POST /avisos
+
+E explicar:
+
+o que cada endpoint faz;
+quais dados recebe;
+quais dados retorna;
+possíveis erros.
